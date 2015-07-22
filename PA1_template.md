@@ -1,10 +1,4 @@
----
-output: 
-  html_document: 
-    theme: cerulean
----
-# Peer Review Assignment 1
-  =====================================================
+
 
 ### Author: Jigme Norbu
 
